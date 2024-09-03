@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c458003f-de15-4a77-835f-f6e6a638b7bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory_method/CityMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory_method/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory_method/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory_method/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="c458003f-de15-4a77-835f-f6e6a638b7bf" name="Changes" comment="Teht">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composite/OrganizationComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Game.executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -72,12 +66,26 @@
       <option name="presentableId" value="Default" />
       <updated>1724794880059</updated>
       <workItem from="1724794881068" duration="1000" />
-      <workItem from="1724794895492" duration="688000" />
+      <workItem from="1724794895492" duration="1071000" />
+      <workItem from="1725377469827" duration="87000" />
+      <workItem from="1725377559831" duration="754000" />
     </task>
+    <task id="LOCAL−00001" summary="Teht">
+      <option name="closed" value="true" />
+      <created>1724795595718</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1724795595718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teht" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teht" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
