@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c458003f-de15-4a77-835f-f6e6a638b7bf" name="Changes" comment="Teht">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chain_of_responsibility/CompensationClaimHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chain_of_responsibility/FeedbackHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chain_of_responsibility/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chain_of_responsibility/Message.java" afterDir="false" />
-    </list>
+    <list default="true" id="c458003f-de15-4a77-835f-f6e6a638b7bf" name="Changes" comment="Teht" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +93,7 @@
       <workItem from="1725868574935" duration="899000" />
       <workItem from="1726471792849" duration="2000" />
       <workItem from="1726677149794" duration="1218000" />
-      <workItem from="1728256588800" duration="801000" />
+      <workItem from="1728256588800" duration="1447000" />
     </task>
     <task id="LOCAL−00001" summary="Teht">
       <option name="closed" value="true" />
@@ -163,7 +158,14 @@
       <option name="presentableId" value="LOCAL−00009" />
       <updated>1728257055500</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL−00010" summary="Teht">
+      <option name="closed" value="true" />
+      <created>1728257439597</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1728257439597</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
